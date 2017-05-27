@@ -5,7 +5,10 @@ create-react-app で試しにカウンターアプリを作成
 # 実行方法
 
 最初に
-`echo '{"count": 0}' > count.json`
+```
+echo '{"count": 0}' > count.json
+npm install
+```
 
 サーバーを走らせる
 
