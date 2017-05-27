@@ -8,6 +8,7 @@ create-react-app で試しにカウンターアプリを作成
 ```
 echo '{"count": 0}' > count.json
 npm install
+pip install -r requirements.txt
 ```
 
 サーバーを走らせる
